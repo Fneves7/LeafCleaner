@@ -1,0 +1,15 @@
+C:\Users\BlackLotus\source\repos\LeafCleaner\bin\x86\Debug\LeafCleaner.exe.config
+C:\Users\BlackLotus\source\repos\LeafCleaner\bin\x86\Debug\LeafCleaner.exe
+C:\Users\BlackLotus\source\repos\LeafCleaner\bin\x86\Debug\LeafCleaner.pdb
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\MainWindow.g.cs
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\App.g.cs
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner_MarkupCompile.cache
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner_MarkupCompile.lref
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\MainWindow.baml
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.g.resources
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.Properties.Resources.resources
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.csproj.GenerateResource.cache
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.csproj.CoreCompileInputs.cache
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.exe
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.pdb
+C:\Users\BlackLotus\source\repos\LeafCleaner\obj\x86\Debug\LeafCleaner.csproj.AssemblyReference.cache
